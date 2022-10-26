@@ -21,7 +21,7 @@ You can find the file attached in this repo where I have created a simple web ap
 ## Screenshots
 Here are some screenshots that of the project. Hope for the feedbacks. Thank You.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/JagatJung/Streamlit-Stock-Analyzer/blob/main/screenshot.jpg)
 
 ## Feel Free to contact me
 - [Twitter](https://twitter.com/DataLakandri)
