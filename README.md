@@ -8,18 +8,24 @@ Hello Everyone. This a small project for Data Analysis that I have created for f
 - All the data, I have used is imported with help of the help of the package [YFinance](https://pypi.org/project/yfinance/). 
 
 
-
-## Feel Free to contact me
-- [Twitter](https://twitter.com/DataLakandri)
-- [Linkedin](https://www.linkedin.com/in/jagat-jung-lakandri-bk-361b94245/)
-
-
 ## Usage/Examples
-You can find the file attached in this repo where I have created a simple web appplication and twister a little statistics inorder to predict posibility of buying or not.
+You can find the file attached in this repo where I have created a simple web appplication using guidance of youtube videos mentioned above. And twisted a little statistics inorder to predict posibility of being buy-able or not.
+
+## Packages Used
+- Streamlit
+- YFinance
+- NumPy
+
+
 
 ## Screenshots
 Here are some screenshots that of the project. Hope for the feedbacks. Thank You.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Feel Free to contact me
+- [Twitter](https://twitter.com/DataLakandri)
+- [Linkedin](https://www.linkedin.com/in/jagat-jung-lakandri-bk-361b94245/)
+
 
           

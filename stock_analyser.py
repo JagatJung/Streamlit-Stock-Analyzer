@@ -1,11 +1,7 @@
 #===============import libraries, some are custom installled=================
-import json
-from typing import Any
-import pandas as pd
 import streamlit as st
 import yfinance as yf
 import numpy as np
-import bs4 as bs
 
 #========================side bar code=-========================
 st.sidebar.header("Chose a coin name")
